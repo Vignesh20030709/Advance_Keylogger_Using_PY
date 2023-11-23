@@ -1,0 +1,240 @@
+Public IP Address: 103.217.237.2Processor: AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD
+System: Windows 10.0.22621
+Machine: AMD64
+Hostname: Sameer
+Private IP Address: 192.168.140.1
+Public IP Address: 103.217.237.2Processor: AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD
+System: Windows 10.0.22621
+Machine: AMD64
+Hostname: Sameer
+Private IP Address: 192.168.140.1
+Public IP Address: 115.241.201.77Processor: AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD
+System: Windows 10.0.22621
+Machine: AMD64
+Hostname: Sameer
+Private IP Address: 192.168.140.1
+Public IP Address: 103.217.237.2Processor: AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD
+System: Windows 10.0.22621
+Machine: AMD64
+Hostname: Sameer
+Private IP Address: 192.168.140.1
+Public IP Address: 115.241.201.77Processor: AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD
+System: Windows 10.0.22621
+Machine: AMD64
+Hostname: Sameer
+Private IP Address: 192.168.140.1
+Public IP Address: 103.217.237.2Processor: AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD
+System: Windows 10.0.22621
+Machine: AMD64
+Hostname: Sameer
+Private IP Address: 192.168.140.1
+Public IP Address: 103.217.237.2Processor: AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD
+System: Windows 10.0.22621
+Machine: AMD64
+Hostname: Sameer
+Private IP Address: 192.168.140.1
+Public IP Address: 103.217.237.2Processor: AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD
+System: Windows 10.0.22621
+Machine: AMD64
+Hostname: Sameer
+Private IP Address: 192.168.140.1
+Public IP Address: 103.217.237.2Processor: AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD
+System: Windows 10.0.22621
+Machine: AMD64
+Hostname: Sameer
+Private IP Address: 192.168.140.1
+Public IP Address: 115.241.201.77Processor: AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD
+System: Windows 10.0.22621
+Machine: AMD64
+Hostname: Sameer
+Private IP Address: 192.168.140.1
+Public IP Address: 103.217.237.2Processor: AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD
+System: Windows 10.0.22621
+Machine: AMD64
+Hostname: Sameer
+Private IP Address: 192.168.140.1
+Public IP Address: 103.217.237.2Processor: AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD
+System: Windows 10.0.22621
+Machine: AMD64
+Hostname: Sameer
+Private IP Address: 192.168.140.1
+Public IP Address: 103.217.237.2Processor: AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD
+System: Windows 10.0.22621
+Machine: AMD64
+Hostname: Sameer
+Private IP Address: 192.168.140.1
+Public IP Address: 115.247.40.251Processor: AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD
+System: Windows 10.0.22621
+Machine: AMD64
+Hostname: Sameer
+Private IP Address: 192.168.140.1
+Public IP Address: 115.247.40.251Processor: AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD
+System: Windows 10.0.22621
+Machine: AMD64
+Hostname: Sameer
+Private IP Address: 192.168.140.1
+Public IP Address: 103.217.237.2Processor: AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD
+System: Windows 10.0.22621
+Machine: AMD64
+Hostname: Sameer
+Private IP Address: 192.168.140.1
+Public IP Address: 115.247.40.251Processor: AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD
+System: Windows 10.0.22621
+Machine: AMD64
+Hostname: Sameer
+Private IP Address: 192.168.140.1
+Public IP Address: 103.217.237.2Processor: AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD
+System: Windows 10.0.22621
+Machine: AMD64
+Hostname: Sameer
+Private IP Address: 192.168.140.1
+Public IP Address: 103.217.237.2Processor: AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD
+System: Windows 10.0.22621
+Machine: AMD64
+Hostname: Sameer
+Private IP Address: 192.168.140.1
+Public IP Address: 115.247.40.251Processor: AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD
+System: Windows 10.0.22621
+Machine: AMD64
+Hostname: Sameer
+Private IP Address: 192.168.140.1
+Public IP Address: 115.247.40.251Processor: AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD
+System: Windows 10.0.22621
+Machine: AMD64
+Hostname: Sameer
+Private IP Address: 192.168.140.1
+Public IP Address: 103.217.237.2Processor: AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD
+System: Windows 10.0.22621
+Machine: AMD64
+Hostname: Sameer
+Private IP Address: 192.168.140.1
+Public IP Address: 103.217.237.2Processor: AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD
+System: Windows 10.0.22621
+Machine: AMD64
+Hostname: Sameer
+Private IP Address: 192.168.140.1
+Public IP Address: 103.217.237.2Processor: AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD
+System: Windows 10.0.22621
+Machine: AMD64
+Hostname: Sameer
+Private IP Address: 192.168.140.1
+Public IP Address: 103.217.237.2Processor: AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD
+System: Windows 10.0.22621
+Machine: AMD64
+Hostname: Sameer
+Private IP Address: 192.168.140.1
+Public IP Address: 115.247.40.251Processor: AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD
+System: Windows 10.0.22621
+Machine: AMD64
+Hostname: Sameer
+Private IP Address: 192.168.140.1
+Public IP Address: 115.247.40.251Processor: AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD
+System: Windows 10.0.22621
+Machine: AMD64
+Hostname: Sameer
+Private IP Address: 192.168.140.1
+Public IP Address: 115.247.40.251Processor: AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD
+System: Windows 10.0.22621
+Machine: AMD64
+Hostname: Sameer
+Private IP Address: 192.168.140.1
+Public IP Address: 115.247.40.251Processor: AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD
+System: Windows 10.0.22621
+Machine: AMD64
+Hostname: Sameer
+Private IP Address: 192.168.140.1
+Public IP Address: 115.247.40.251Processor: AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD
+System: Windows 10.0.22621
+Machine: AMD64
+Hostname: Sameer
+Private IP Address: 192.168.140.1
+Public IP Address: 103.217.237.2Processor: AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD
+System: Windows 10.0.22621
+Machine: AMD64
+Hostname: Sameer
+Private IP Address: 192.168.140.1
+Public IP Address: 115.247.40.251Processor: AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD
+System: Windows 10.0.22621
+Machine: AMD64
+Hostname: Sameer
+Private IP Address: 192.168.140.1
+Public IP Address: 103.217.237.2Processor: AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD
+System: Windows 10.0.22621
+Machine: AMD64
+Hostname: Sameer
+Private IP Address: 192.168.140.1
+Public IP Address: 103.217.237.2Processor: AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD
+System: Windows 10.0.22621
+Machine: AMD64
+Hostname: Sameer
+Private IP Address: 192.168.140.1
+Public IP Address: 103.217.237.2Processor: AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD
+System: Windows 10.0.22621
+Machine: AMD64
+Hostname: Sameer
+Private IP Address: 192.168.140.1
+Public IP Address: 103.217.237.2Processor: AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD
+System: Windows 10.0.22621
+Machine: AMD64
+Hostname: Sameer
+Private IP Address: 192.168.140.1
+Public IP Address: 103.217.237.2Processor: AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD
+System: Windows 10.0.22621
+Machine: AMD64
+Hostname: Sameer
+Private IP Address: 192.168.140.1
+Public IP Address: 103.217.237.2Processor: AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD
+System: Windows 10.0.22621
+Machine: AMD64
+Hostname: Sameer
+Private IP Address: 192.168.140.1
+Public IP Address: 115.247.40.251Processor: AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD
+System: Windows 10.0.22621
+Machine: AMD64
+Hostname: Sameer
+Private IP Address: 192.168.140.1
+Public IP Address: 115.247.40.251Processor: AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD
+System: Windows 10.0.22621
+Machine: AMD64
+Hostname: Sameer
+Private IP Address: 192.168.140.1
+Public IP Address: 115.247.40.251Processor: AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD
+System: Windows 10.0.22621
+Machine: AMD64
+Hostname: Sameer
+Private IP Address: 192.168.140.1
+Public IP Address: 103.217.237.2Processor: AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD
+System: Windows 10.0.22621
+Machine: AMD64
+Hostname: Sameer
+Private IP Address: 192.168.140.1
+Public IP Address: 115.247.40.251Processor: AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD
+System: Windows 10.0.22621
+Machine: AMD64
+Hostname: Sameer
+Private IP Address: 192.168.140.1
+Public IP Address: 103.217.237.2Processor: AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD
+System: Windows 10.0.22621
+Machine: AMD64
+Hostname: Sameer
+Private IP Address: 192.168.140.1
+Public IP Address: 115.247.40.251Processor: AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD
+System: Windows 10.0.22621
+Machine: AMD64
+Hostname: Sameer
+Private IP Address: 192.168.140.1
+Public IP Address: 103.217.237.2Processor: AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD
+System: Windows 10.0.22621
+Machine: AMD64
+Hostname: Sameer
+Private IP Address: 192.168.140.1
+Public IP Address: 103.217.237.2Processor: AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD
+System: Windows 10.0.22621
+Machine: AMD64
+Hostname: Sameer
+Private IP Address: 192.168.140.1
+Public IP Address: 103.217.237.2Processor: AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD
+System: Windows 10.0.22621
+Machine: AMD64
+Hostname: Sameer
+Private IP Address: 192.168.140.1
